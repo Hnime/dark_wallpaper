@@ -27,9 +27,9 @@ echo '''
                         |_____|                              
 
      '''
-echo '[+] Author : NOT BURIQ'
-echo '[+] Team : DARK NETWORK/BC'
-echo '[+] Github : https://www.github.com/DARK-02'
+echo '[+] Author : kira
+echo '[+] Team : nainz
+echo '[+] Github : https://www.github.com/hnimeid
 echo ''
 echo ''
 read -p $'\e[32mNama Anda :\e[0m ' target
@@ -85,7 +85,7 @@ echo '
           ▕╰╯▏╯╰┳┳┳┳┳┳╯╭▏
           ▕┈╭▏╭╮┃┗┛┗┛┃┈╰▏
           ▕┈╰▏╰╯╰━━━━╯┈┈▏
-...:::::::: HELLO ADMIN ::::::::...
+...:::::::: HELLO WILDAN ::::::::...
 '
 nifce=$(ip r show | cut -d " " -f 3)
 

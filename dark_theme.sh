@@ -6,14 +6,18 @@ sleep 2
 echo '''
 
                          
- _____ _____ _____ _____ 
-|   __|  |  | __  |   __|
-|__   |  |  | __ -|__   |
-|_____|_____|_____|_____|
+#    #    #
+
+#  #  #  #
+
+###   ###
+
+
+
                          
      '''
 sleep 2
-xdg-open https://youtube.com/channel/UCXpOIsauw8NjH0t4tSXSY-Q
+
 sleep 2
 clear
 sleep 2
@@ -29,7 +33,7 @@ echo '''
      '''
 echo '[+] Author : kira
 echo '[+] Team : nainz
-echo '[+] Github : https://www.github.com/hnimeid
+echo '[+] Github : https://www.github.com/hnime
 echo ''
 echo ''
 read -p $'\e[32mNama Anda :\e[0m ' target
@@ -69,11 +73,13 @@ echo "
      *-------------------------------*
      |  KITA SEMUA PASTI AKAN MATI   |
      *-------------------------------*
+               لا أ له أ لا الله
+               محمد رسو الله
 "
 sleep 4
 clear
 sleep 2
-echo 'Hello $target '
+echo 'Hello ولدان '
 sleep 3
 neofetch
 echo '
@@ -85,7 +91,8 @@ echo '
           ▕╰╯▏╯╰┳┳┳┳┳┳╯╭▏
           ▕┈╭▏╭╮┃┗┛┗┛┃┈╰▏
           ▕┈╰▏╰╯╰━━━━╯┈┈▏
-...:::::::: HELLO WILDAN ::::::::...
+...:::::::: HELLO ولدان ::::::::...
+           لا أ له أ لا الله
 '
 nifce=$(ip r show | cut -d " " -f 3)
 
